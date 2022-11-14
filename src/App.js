@@ -1,16 +1,17 @@
 import "./App.css";
 import 'animate.css';
 import Footer from "./components/Footer";
-import Headers from "./components/Headers";
-import Containers from "./components/Containers";
+
+import Navbar from "./components/Navbar";
+import Router from "./Routes";
 
 function App() {
   return (
     <>
-      <Headers />
+      <Navbar/>
 
+      <Router/>
 
-        <Containers />
 
       <Footer />
     </>
