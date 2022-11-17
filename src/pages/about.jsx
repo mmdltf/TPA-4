@@ -48,7 +48,7 @@ const Aboutpage = () => {
             >
               <img
                 style={{ marginBottom: 40 }}
-                src="https://i.postimg.cc/sDLxQnR5/f99678168.jpg" width={700}
+                src="https://i.postimg.cc/28pSGWvk/20151024143904-IMG-0389.jpg" width={700}
                 alt=''
               />
               <a href="#!">
