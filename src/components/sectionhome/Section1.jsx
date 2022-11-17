@@ -75,7 +75,7 @@ function Section1() {
               rippleColor="light"
             >
               <img style={{marginBottom: 40}}
-                src="https://i.postimg.cc/KvR3f91R/Whats-App-Image-2022-11-11-at-00-24-56.jpg"
+                src="https://i.postimg.cc/28pSGWvk/20151024143904-IMG-0389.jpg"
                 alt=""
               />
               <a href="#!">
